@@ -1,0 +1,6 @@
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.dll
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.pdb
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.dll
+C:\Curso\20483\Luismi\Tareas\Mod12_T20483\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.pdb
